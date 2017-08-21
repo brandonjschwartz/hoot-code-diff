@@ -20,6 +20,7 @@ if ( !empty( $site_info ) ) :
 						echo $site_info;
 					} ?>
 				</p><!-- .credit -->
+				<p>&copy; 2017 Chest Clinic All Rights Reserved</p>
 			</div>
 		</div>
 	</div>
